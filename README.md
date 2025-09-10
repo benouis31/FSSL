@@ -73,8 +73,8 @@ pip install -r requirements.txt
 
 ## Data Preparation
 1. **Download datasets**:  
-   - WESAD: [Link](https://uni-siegen.sciebo.de/s/pYjSgfOVJ7UnOdK)  
-   - VERBIO: [Link](https://www.db-thueringen.de/receive/dbt_mods_00043869)  
+   - WESAD: [Link](https://ubicomp.eti.uni-siegen.de/home/datasets/icmi18/)  
+   - VERBIO: [Link](https://hubbs.engr.tamu.edu/resources/verbio-dataset/)  
    - DAPPER: [Link](https://www.synapse.org/#!Synapse:syn22418021/files/)  
 
 2. **Place** raw data under `data/<dataset_name>/raw/`.  
