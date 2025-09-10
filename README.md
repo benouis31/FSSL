@@ -3,7 +3,7 @@
 **Leveraging Federated Self-Supervised Approach for Stress Recognition to Mitigate Label Leakage**  
 *Mohamed Benouis, Elisabeth André, and Yekta Said Can – Chair for Human-Centered Artificial Intelligence, University of Augsburg*  
 
-📌 **Note:** This paper is currently **under review** at *ACM Transactions on Accessible Computing*.  
+!!! Note:** This paper is currently **under review** at *ACM Transactions on Accessible Computing*.  
 
 ---
 
